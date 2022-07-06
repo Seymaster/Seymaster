@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seymaster
-- 👀 I’m interested in Website,web application,nodejs,open source contribution
+- 👀 I’m interested in Website,Web Application,NodeJs,Open Source Contribution
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me via email alugbinoluwaseyi1@gmail.com
