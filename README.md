@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seymaster
-- 👀 I’m interested in Website,Web Application,NodeJs,Open Source Contribution
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Typescript,NodeJs,Open Source Contribution, Website,Web Application,
+- 🌱 I’m currently learning GoLang
+- 💞️ I’m looking to collaborate on Open Source 
 - 📫 How to reach me via email alugbinoluwaseyi1@gmail.com
 
 <!---
